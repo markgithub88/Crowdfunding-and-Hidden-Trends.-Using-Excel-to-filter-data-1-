@@ -8,3 +8,4 @@ I performed my analysis using Google often and the hints given within the module
 
 Conclusions.
 Discussing the goal outcome conclusion we can see that there is a lot of inverse relationships in the line chart. In other words the percentage failed in the percent successful in the 20,000 to $25,000 goal is inversely proportionate as it is at the 35,000 Mark and the 40,000 mark. But the 40,000 marks can be most likely interpreted as outliers. This data set is limited by the outliers and the small number of our data in general. Other tables or graphs that we could use are bar, XY scatter, histogram, and maybe combination. And then making the colors different based on color choice.
+![image](https://user-images.githubusercontent.com/115684964/227337281-43b39d4f-fce4-41e5-93c1-5555ab8c5461.png)
